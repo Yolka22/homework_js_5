@@ -1,0 +1,26 @@
+#clicker{
+    background-color: cadetblue;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+#clicker:active{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+button{
+    cursor: pointer;
+}
+
+#nick_container{
+    padding: 20px;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+main{
+    padding-top: 40px;
+    text-align: center;
+}
